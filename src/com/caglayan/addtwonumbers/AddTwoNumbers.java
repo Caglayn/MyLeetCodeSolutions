@@ -6,7 +6,7 @@ public class AddTwoNumbers {
 	 * next; ListNode() {} ListNode(int val) { this.val = val; } ListNode(int val,
 	 * ListNode next) { this.val = val; this.next = next; } }
 	 */
-
+/*
 	public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 		ListNode solution = new ListNode(0);
 		ListNode current = solution;
@@ -32,5 +32,5 @@ public class AddTwoNumbers {
 		}
 		return solution.next;
 	}
-
+*/
 }
